@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="Tests">Тесты</string>
+    <string name="Articles">Статьи</string>
+    <string name="Calendars">Календари</string>
+    <string name="Settings">Настройки</string>
+    <string name="menu">menu</string>
+    <string name="Menu1">Меню</string>
+</resources>
